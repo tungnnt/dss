@@ -30,8 +30,8 @@ contract Dai is LibNote {
     }
 
     // --- ERC20 Data ---
-    string  public constant name     = "PUSD Stablecoin";
-    string  public constant symbol   = "PUSD";
+    string  public constant name     = "ZUSD Stablecoin";
+    string  public constant symbol   = "ZUSD";
     string  public constant version  = "1";
     uint8   public constant decimals = 18;
     uint256 public totalSupply;
